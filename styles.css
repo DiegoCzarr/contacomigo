@@ -616,5 +616,9 @@ span {
   }
 }
 
-
+@media (max-width: 375px) {
+  form {
+    margin-left: -30px;
+  }
+}
 
